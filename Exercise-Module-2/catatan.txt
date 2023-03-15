@@ -1,0 +1,7 @@
+Berikut beberapa insight yang belum dibuktikan:
+
+- Terdapat perbedaan ukuran tubuh yang cukup signifikan antara jenis pinguin Adelie dengan jenis pinguin Gentoo dan Chinstrap.
+- Terdapat korelasi yang cukup kuat antara culmen_length_mm dan flipper_length_mm, yang menunjukkan semakin panjang culmen (paruh) seekor pinguin, maka cenderung semakin panjang juga flipper (sirip) pinguin tersebut.
+- Terdapat beberapa outlier pada beberapa variabel, seperti body_mass_g dan bill_depth_mm pada jenis pinguin Gentoo.
+- Terdapat beberapa distribusi variabel yang miring, seperti body_mass_g dan culmen_length_mm, yang menunjukkan adanya perbedaan ukuran tubuh yang cukup signifikan pada jenis pinguin tertentu.
+- Terdapat juga beberapa hubungan antara pasangan variabel yang tidak terlalu signifikan, seperti body_mass_g dan culmen_depth_mm, flipper_length_mm dan body_mass_g, atau culmen_length_mm dan body_mass_g.
