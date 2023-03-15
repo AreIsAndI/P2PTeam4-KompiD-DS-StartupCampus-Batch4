@@ -1,7 +1,11 @@
-Berikut beberapa insight yang belum dibuktikan:
+Catatan insight:
 
-- Terdapat perbedaan ukuran tubuh yang cukup signifikan antara jenis pinguin Adelie dengan jenis pinguin Gentoo dan Chinstrap.
-- Terdapat korelasi yang cukup kuat antara culmen_length_mm dan flipper_length_mm, yang menunjukkan semakin panjang culmen (paruh) seekor pinguin, maka cenderung semakin panjang juga flipper (sirip) pinguin tersebut.
-- Terdapat beberapa outlier pada beberapa variabel, seperti body_mass_g dan bill_depth_mm pada jenis pinguin Gentoo.
-- Terdapat beberapa distribusi variabel yang miring, seperti body_mass_g dan culmen_length_mm, yang menunjukkan adanya perbedaan ukuran tubuh yang cukup signifikan pada jenis pinguin tertentu.
-- Terdapat juga beberapa hubungan antara pasangan variabel yang tidak terlalu signifikan, seperti body_mass_g dan culmen_depth_mm, flipper_length_mm dan body_mass_g, atau culmen_length_mm dan body_mass_g.
+1. Rata-rata body mass penguin adalah 4201.754386
+2. Spesies penguin yang paling banyak pada datasets tersebut adalah Adelie Penguin (Pygoscelis adeliae)
+3. Terdapat korelasi positif yang sedang antara culmen_length dan flipper_length, yakni 0.65710152
+4. Terdapat korelasi positif yang kuat antara flipper_length dan body_mass, yakni 0.8709563
+5. Terdapat perbedaan ukuran tubuh yang cukup signifikan antara jenis pinguin Adelie dengan jenis pinguin Gentoo dan Chinstrap.
+6. Terdapat korelasi yang cukup kuat antara culmen_length_mm dan flipper_length_mm, yang menunjukkan semakin panjang culmen (paruh) seekor pinguin, maka cenderung semakin panjang juga flipper (sirip) pinguin tersebut.
+7. Terdapat beberapa outlier pada beberapa variabel, seperti body_mass_g dan bill_depth_mm pada jenis pinguin Gentoo.
+8. Terdapat beberapa distribusi variabel yang miring, seperti body_mass_g dan culmen_length_mm, yang menunjukkan adanya perbedaan ukuran tubuh yang cukup signifikan pada jenis pinguin tertentu.
+9. Terdapat juga beberapa hubungan antara pasangan variabel yang tidak terlalu signifikan, seperti body_mass_g dan culmen_depth_mm, flipper_length_mm dan body_mass_g, atau culmen_length_mm dan body_mass_g.
