@@ -9,3 +9,9 @@ Catatan insight:
 7. Terdapat beberapa outlier pada beberapa variabel, seperti body_mass_g dan bill_depth_mm pada jenis pinguin Gentoo.
 8. Terdapat beberapa distribusi variabel yang miring, seperti body_mass_g dan culmen_length_mm, yang menunjukkan adanya perbedaan ukuran tubuh yang cukup signifikan pada jenis pinguin tertentu.
 9. Terdapat juga beberapa hubungan antara pasangan variabel yang tidak terlalu signifikan, seperti body_mass_g dan culmen_depth_mm, flipper_length_mm dan body_mass_g, atau culmen_length_mm dan body_mass_g.
+
+Beberapa kode yang mungkin bisa dijalankan:
+1.
+# bar_data = sns.barplot(data=study_data)
+# plt.xticks(rotation = 45)
+2.
